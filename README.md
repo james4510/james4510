@@ -28,3 +28,4 @@
 - 2023.12.19 ~ 2024.02.02 : Project AWAKERS
 - 2024.09.01 ~ 2025.06.20 : Graduation Project (PedNav & Audar)
 - 2024.09.01 ~ 2025.06.20 : Research Assistant (INCLab - Network & IoT)
+- 2025.03.02 ~ 2025.09.01 : Gachon Univ. 8th UMC Android Challenger
